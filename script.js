@@ -7,4 +7,4 @@ burger.addEventListener('click', () => {
     // Toggle class 'active' untuk menampilkan/menyembunyikan navigasi
     navLinks.classList.toggle('active');
 });
-document.querySelector('footer p').innerHTML = `Copy Right By Toko Kitab Pesantren &copy; ${new Date().getFullYear()}`;
+document.querySelector('footer p').innerHTML = `Copy Right By Muhyi Sadewo &copy; ${new Date().getFullYear()}`;
